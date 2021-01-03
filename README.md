@@ -6,3 +6,4 @@ It consists of a bunch of redesigned reactJS projects of other developers with m
 
 - https://birthdayreminder-react-dk.netlify.app/
 - https://tours-react-dk.netlify.app/
+- https://reviews-react-dk.netlify.app/
