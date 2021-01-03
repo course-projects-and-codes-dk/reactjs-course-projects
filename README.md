@@ -8,3 +8,4 @@ It consists of a collection of redesigned reactJS projects of other developers w
 - https://tours-react-dk.netlify.app/
 - https://reviews-react-dk.netlify.app/
 - https://accordion-react-dk.netlify.app/
+- https://menu-react-dk.netlify.app/
