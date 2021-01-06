@@ -12,3 +12,4 @@ It consists of a collection of redesigned reactJS projects of other developers w
 - https://tabs-react-dk.netlify.app/
 - https://slider-react-dk.netlify.app/
 - https://randomtextgenerator-react-dk.netlify.app/
+- https://colorgenerator-react-dk.netlify.app/
