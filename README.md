@@ -17,3 +17,4 @@ It consists of a collection of redesigned reactJS projects of other developers w
 - https://navbar-react-dk.netlify.app/
 - https://sidebarandmodal-react-dk.netlify.app/
 - https://stripesubmenu-react-dk.netlify.app/
+- https://cart-react-dk.netlify.app/
