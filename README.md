@@ -16,3 +16,4 @@ It consists of a collection of redesigned reactJS projects of other developers w
 - https://todolist-react-dk.netlify.app/
 - https://navbar-react-dk.netlify.app/
 - https://sidebarandmodal-react-dk.netlify.app/
+- https://stripesubmenu-react-dk.netlify.app/
