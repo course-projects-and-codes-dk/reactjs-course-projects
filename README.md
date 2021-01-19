@@ -1,6 +1,6 @@
 # reactJS-repeated-projects
 
-It consists of a collection of redesigned reactJS projects of other developers with my input in it.
+It consists of a collection of redesigned reactJS projects where the idea isn't my original. These are inspired by developers all over the internet.
 
 ### Here's the live preview of all these projects
 
@@ -11,9 +11,9 @@ It consists of a collection of redesigned reactJS projects of other developers w
 - https://menu-react-dk.netlify.app/
 - https://tabs-react-dk.netlify.app/
 - https://slider-react-dk.netlify.app/
-- https://randomtextgenerator-react-dk.netlify.app/
 - https://todolist-react-dk.netlify.app/
 - https://navbar-react-dk.netlify.app/
+- https://randomperson-react-dk.netlify.app/
 - https://sidebarandmodal-react-dk.netlify.app/
 - https://stripesubmenu-react-dk.netlify.app/
 - https://cart-react-dk.netlify.app/
