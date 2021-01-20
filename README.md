@@ -18,3 +18,4 @@ It consists of a collection of redesigned reactJS projects where the idea isn't 
 12. [Stripe Submenu](https://stripesubmenu-react-dk.netlify.app/)
 13. [Cart](https://cart-react-dk.netlify.app/)
 14. [Pagination](https://pagination-react-dk.netlify.app/)
+15. [Dark Mode](https://darkmode-react-dk.netlify.app/)
