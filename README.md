@@ -17,3 +17,4 @@ It consists of a collection of redesigned reactJS projects where the idea isn't 
 11. [Sidebar and Modal](https://sidebarandmodal-react-dk.netlify.app/)
 12. [Stripe Submenu](https://stripesubmenu-react-dk.netlify.app/)
 13. [Cart](https://cart-react-dk.netlify.app/)
+14. [Pagination](https://pagination-react-dk.netlify.app/)
