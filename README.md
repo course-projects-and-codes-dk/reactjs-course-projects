@@ -19,3 +19,4 @@ It consists of a collection of redesigned reactJS projects where the idea isn't 
 13. [Cart](https://cart-react-dk.netlify.app/)
 14. [Pagination](https://pagination-react-dk.netlify.app/)
 15. [Dark Mode](https://darkmode-react-dk.netlify.app/)
+16. [Photo Gallery](https://photogallery-react-dk.netlify.app/)
