@@ -20,3 +20,4 @@ It consists of a collection of redesigned reactJS projects where the idea isn't 
 14. [Pagination](https://pagination-react-dk.netlify.app/)
 15. [Dark Mode](https://darkmode-react-dk.netlify.app/)
 16. [Photo Gallery](https://photogallery-react-dk.netlify.app/)
+17. [Movie Finder](https://moviefinder-react-dk.netlify.app/)
