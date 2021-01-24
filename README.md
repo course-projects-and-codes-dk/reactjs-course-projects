@@ -21,3 +21,4 @@ It consists of a collection of redesigned reactJS projects where the idea isn't 
 15. [Dark Mode](https://darkmode-react-dk.netlify.app/)
 16. [Photo Gallery](https://photogallery-react-dk.netlify.app/)
 17. [Movie Finder](https://moviefinder-react-dk.netlify.app/)
+18. [Latest News](https://latestnews-react-dk.netlify.app/)
