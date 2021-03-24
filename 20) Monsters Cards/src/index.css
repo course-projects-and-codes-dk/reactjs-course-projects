@@ -1,0 +1,75 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(
+    to bottom right,
+    rgb(7, 82, 78) 0%,
+    rgb(128, 15, 0) 100%
+  );
+  min-height: calc(100vh - 2.7rem);
+}
+
+.search-box {
+  border: none;
+  outline: none;
+  padding: 10px 15px;
+  width: 250px;
+  line-height: 30px;
+  margin-bottom: 30px;
+  border-radius: 0.25rem;
+  text-transform: capitalize;
+  box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
+}
+
+.card-container {
+  background-color: #da9595;
+  border: 1px solid grey;
+  border-radius: 5px;
+  padding: 25px;
+  cursor: pointer;
+  transition: transform 0.25s ease-out;
+}
+img {
+  width: 100%;
+}
+
+.card-container:hover {
+  transform: scale(1.05);
+}
+
+.card-list {
+  width: 90vw;
+  max-width: 1170px;
+  margin: 2rem auto;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-gap: 2rem;
+}
+@media screen and (min-width: 592px) {
+  .card-list {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+@media screen and (min-width: 868px) {
+  .card-list {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+}
+@media screen and (min-width: 1170px) {
+  .card-list {
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
+}
+
+.App {
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Bigelow Rules';
+  font-size: 4rem;
+  color: #ca320c;
+  padding: 0 1rem;
+  letter-spacing: 4px;
+  text-shadow: 1px 1px 1px white;
+}

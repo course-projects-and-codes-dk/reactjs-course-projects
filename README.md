@@ -1,6 +1,6 @@
 # reactJS-repeated-projects
 
-It consists of a collection of redesigned reactJS projects where the idea isn't my original. These are inspired by developers all over the internet.
+It consists of a collection of redesigned reactJS projects created by me where the idea isn't my original. These are inspired by developers all over the internet.
 
 ### Here's the live preview of all these projects
 
@@ -23,3 +23,4 @@ It consists of a collection of redesigned reactJS projects where the idea isn't 
 17. [Movie Finder](https://moviefinder-react-dk.netlify.app/)
 18. [Latest News](https://latestnews-react-dk.netlify.app/)
 19. [Github Info Generator](https://githubinfogenerator-react-dk.netlify.app/)
+20. [Monsters Cards](https://monsterscards-react-dk.netlify.app/)
