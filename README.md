@@ -24,3 +24,4 @@ It consists of a collection of redesigned reactJS projects created by me where t
 18. [Latest News](https://latestnews-react-dk.netlify.app/)
 19. [Github Info Generator](https://githubinfogenerator-react-dk.netlify.app/)
 20. [Monsters Cards](https://monsterscards-react-dk.netlify.app/)
+21. [Cart with Redux](https://cartwithredux-react-dk.netlify.app/)
